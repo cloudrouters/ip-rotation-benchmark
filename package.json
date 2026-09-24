@@ -1,0 +1,12 @@
+{
+  "name": "ip-rotation-benchmark",
+  "version": "1.0.0",
+  "author": "CloudRouters",
+  "scripts": {
+    "rotation": "tsx rotation.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "tsx": "^4.20.5"
+  }
+}
